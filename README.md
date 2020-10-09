@@ -1,13 +1,23 @@
 # 2020-10-13_LIV.DAT_school
 
-Series of lectures for the [LIV.DAT STFC School on Data Intensive Science 2020](https://indico.ph.liv.ac.uk/event/103/)
+Series of lectures **"Big Data Python ecosystem for HEP"** for the
+[LIV.DAT STFC School on Data Intensive Science 2020](https://indico.ph.liv.ac.uk/event/103/)
 held as a virtual event on 12-16 October 2020.
+
+### Abstract
+
+Data analysis in High Energy Physics (HEP) has evolved considerably in recent years. In particular, the role of Python has been gaining
+much momentum, sharing at present the show with C++ as a language of choice.
+Several (community) domain-specific projects have seen the day, providing (HEP) data analysis packages that profit from, and talk to well with,
+the huge Python scientific ecosystem, which navigates around NumPy and friends.
+In this "Big Data Python ecosystem for HEP" session I will present and discuss a large set of this new HEP ecosystem ever more used by analysts
+across several experiments such as the LHC experiments but also Belle II, KM3NeT and others.
+Ample time will be provided to "play around" with the material, in Jupyter notebooks.
+
+## Installation-free run
 
 A nice rendering of the notebooks can be obtained with nbviewer at
 https://nbviewer.jupyter.org/github/eduardo-rodrigues/2020-10-13_LIV.DAT_school/tree/master/.
-
-
-## Installation-free run
 
 One can straightforwardly run this notebook presentation on Binder,
 with no installation requirements on the user side
