@@ -2,7 +2,7 @@ name: 20201013_livdat
 channels:
   - conda-forge
 dependencies:
-  - python>=3.7, <3.9
+  - python>=3.7, <3.8
   # Setting recent versions to make the conda solve faster
   - numpy>=1.16
   - pandas>=0.24
@@ -12,7 +12,7 @@ dependencies:
   - jupyterlab>=0.35
   - pydot>=1.3.0
   - phasespace>=1.1.0
-  - zfit>=0.5.2, <0.6
+  - zfit>=0.4.1, <0.5
   - pip:
     - scikit-hep==1.0.0
     - hepstats>=0.2.1, <0.3
