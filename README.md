@@ -11,7 +11,7 @@ https://nbviewer.jupyter.org/github/eduardo-rodrigues/2020-10-13_LIV.DAT_school/
 
 One can straightforwardly run this notebook presentation on Binder,
 with no installation requirements on the user side
-(Be aware that the environment to set up is rather large and it may take 5 minutes
+(Be aware that the environment to set up is rather large and it may take 5-10 minutes
 for the notebooks to be up and running online.)
 
 Just click on
