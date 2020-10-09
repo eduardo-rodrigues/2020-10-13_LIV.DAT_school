@@ -1,0 +1,23 @@
+name: 20201013_livdat
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8, <3.9
+  # Setting recent versions to make the conda solve faster
+  - numpy>=1.16
+  - pandas>=0.24
+  - attrs>=19.0
+  - six>=1.11
+  - pip>19.0
+  - jupyterlab>=0.35
+  - pydot>=1.3.0
+  - phasespace>=1.1.0, <1.2
+  - zfit>=0.4.1, <0.5
+  - pip:
+    - scikit-hep==1.0.0
+    - hepstats>=0.2.1, <0.3
+    - tabulate
+    - lark-parser>=0.6.3
+    - plumbum>=1.6.6
+    - graphviz
+    - RISE
