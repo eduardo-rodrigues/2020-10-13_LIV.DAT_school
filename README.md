@@ -4,6 +4,8 @@ Series of lectures **"Big Data Python ecosystem for HEP"** for the
 [LIV.DAT STFC School on Data Intensive Science 2020](https://indico.ph.liv.ac.uk/event/103/)
 held as a virtual event on 12-16 October 2020.
 
+<center><img src="images/LIV.DATA_2020.jpg" width="70%"></center>
+
 ### Abstract
 
 Data analysis in High Energy Physics (HEP) has evolved considerably in recent years. In particular, the role of Python has been gaining
